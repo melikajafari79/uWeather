@@ -1,6 +1,8 @@
-This is a elementary uservice project from Turing Research Team.
+This is a weather condition uservice project from Turing Research Team.
 <br/>
-This project displays the current price of Tether.
+The purpose of this project is to display the current temperature, humidity, pressure and UV index in Shiraz city.
+<br/>
+You can easily add other parts of meteorology to it.
 <img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 ## Getting Started
 
@@ -19,7 +21,7 @@ Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
 <br/>
-<img src="https://github.com/melikajafari79/utether/blob/main/Screenshot%202024-09-01%20020750.png" />
+<img src="https://github.com/melikajafari79/uWeather/blob/main/Screenshot%202024-09-10%20221255.png" />
 <br/>
 <br/>
 [https://github.com/ArminKardan/utrial.git](https://github.com/ArminKardan/utrial.git) is the main source of this project.
