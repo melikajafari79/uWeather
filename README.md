@@ -1,9 +1,11 @@
 This is a weather condition uservice project from Turing Research Team.
+
+<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 <br/>
 The purpose of this project is to display the current temperature, humidity, pressure and UV index in Shiraz city.
 <br/>
 You can easily add other parts of meteorology to it.
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
+
 ## Getting Started
 
 First, run the development server:
