@@ -23,7 +23,7 @@ Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
 <br/>
-<img src="https://github.com/melikajafari79/uWeather/blob/main/Screenshot%202024-09-10%20221255.png" />
+<img src="https://github.com/melikajafari79/uWeather/blob/main/Screenshot%202024-09-01%20020907.png" />
 <br/>
 <br/>
 [https://github.com/ArminKardan/utrial.git](https://github.com/ArminKardan/utrial.git) is the main source of this project.
